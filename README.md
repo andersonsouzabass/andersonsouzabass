@@ -12,3 +12,4 @@ I lead engineering teams while staying hands-on across the stack — backend and
 
 - **Email:** anderson8.souza2@gmail.com
 - **GitHub:** [@andersonsouzabass](https://github.com/andersonsouzabass)
+- **LinkedIn:** [@andersonsouzabass](https://www.linkedin.com/in/andersonlopessouza/)
