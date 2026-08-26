@@ -26,4 +26,3 @@ into technology that solves structural problems.
 - **Email:** anderson8.souza2@gmail.com
 - **LinkedIn:** [andersonlopessouza](https://www.linkedin.com/in/andersonlopessouza/)
 - **GitHub:** [@andersonsouzabass](https://github.com/andersonsouzabass)
-- **LinkedIn:** [@andersonsouzabass](https://www.linkedin.com/in/andersonlopessouza/)
